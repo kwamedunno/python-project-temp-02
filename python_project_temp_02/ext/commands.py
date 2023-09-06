@@ -1,8 +1,8 @@
 import click
 
-from project_name.ext.auth import create_user
-from project_name.ext.database import db
-from project_name.models import Product
+from python_project_temp_02.ext.auth import create_user
+from python_project_temp_02.ext.database import db
+from python_project_temp_02.models import Product
 
 
 def create_db():
